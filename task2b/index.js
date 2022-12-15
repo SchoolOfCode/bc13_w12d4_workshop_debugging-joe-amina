@@ -14,7 +14,7 @@ function hasPets(hasPet, firstName, lastName) {
     return;
     firstName + " " + lastName + " " + "has no pets";
   }
-}
+}// greyed out return, unreachable code
 
 let myAccountNumbers = {
   account1: "220",
@@ -50,7 +50,7 @@ function calculator(firstNumber, operator, secondNumber) {
     return;
     answer;
   }
-}
+} // answers greyed out (not read) and last return answer unreachable
 
 //  Do not change this.
 add(2, 5);
